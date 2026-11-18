@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hammadhd02/hammadhd02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohammad Hammad 👋
 
-Here are some ideas to get you started:
+### AI & Data Analytics Student | Python | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building ideas into intelligent solutions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge)](https://imhammad.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA student at LNCT University, Bhopal
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📊 Exploring Data Analytics and Data Science
+- 💻 Working with Python, Java, C++ and SQL
+- 🚀 Building practical projects and learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,git,github,vscode)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 📩 Spam Message Detector — Python, ML, Streamlit
+- 🚆 Railway Reservation System — C++, Qt
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammadhd02&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadhd02&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hammadhd02&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+</div>
