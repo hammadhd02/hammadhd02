@@ -45,13 +45,9 @@ Building ideas into intelligent solutions.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammadhd02&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadhd02&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hammadhd02&theme=tokyonight)
 
-</div>
 
 ---
 
